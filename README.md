@@ -21,6 +21,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 
+29.06.2022 Version 0.6.2.1
+  - Löschen des Hue Token in der Config möglich
+  - Fehlerbehebung bei dem Update der vhih Attribute die zum Absturz des vhih geführt haben
+
 29.06.2022 Version 0.6.2
   - Anzeige in der Config ob der Stream zur HUE Bridge aufgebaut wurde 
   - Anzeige der angelegten vhih Geräte 
