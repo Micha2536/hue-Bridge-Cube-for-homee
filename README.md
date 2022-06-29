@@ -23,7 +23,7 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 29.06.2022 Version 0.6.2
   - Anzeige in der Config ob der Stream zur HUE Bridge aufgebaut wurde 
-  - Anzeige der angelegtenn vhih Geräte 
+  - Anzeige der angelegten vhih Geräte 
 
 29.06.2022 Version 0.6.1
   - Unterstützung des Farbkanal über hue
