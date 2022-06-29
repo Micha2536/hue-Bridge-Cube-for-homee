@@ -1,5 +1,12 @@
 # hue-Bridge-Cube-for-homee
-Update
+
+## Installation
+
+
+
+
+
+# Update
 
 29.06.2022 Version 0.6.2
   - Anzeige in der Config ob der Stream zur HUE Bridge aufgebaut wurde 
