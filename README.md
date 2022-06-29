@@ -2,6 +2,19 @@
 
 ## Installation
 
+Aktuelle Version des Chips ESP32 Wroom32 
+
+  - mit dem Esp Wlan Verbinden "hue_bridge_cube"
+  - Wlan Zugangsdaten eintippen
+  - IP der Hue Bridge eintippen
+  - Button der Hue Bridge betätigen und dann den Neustart Button drücken
+  - Die Anmeldung an der Hue Brige wird durchgeführt
+  - Esp unter hue-bridge-cube.fritz.box aufrufen ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
+    hier Sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
+  - in homee nun Geräte hinzufügen und homee in homee auswählen
+    -> mit homee verbinden drücken -> IP Adresse xxx.xxx.xxx.xxx eingeben -> User XYZ -> PW ABC -> verbinden drücken
+    nun sollten alle angelegten Geräte angezeigt werden
+
 
 
 
