@@ -13,7 +13,7 @@ Update
 
 
 
-# Unterstützte Geräte
+# Getestete Geräte
   - Hue Dimmer Switch V1 
   - Hue Iris 
   - Innr RB 285 C
