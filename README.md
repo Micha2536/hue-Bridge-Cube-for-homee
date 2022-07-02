@@ -21,6 +21,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 
+02.07.2022 Versin 1.2.8
+- Fehlerbehebung beim AP und PW hinzugefügt
+- Hue Bewegungsmelder hinzugefügt mit Motion, Lux und Temp
+
 29.06.2022 Version 0.6.2.1
   - Löschen des Hue Token in der Config möglich
   - Fehlerbehebung bei dem Update der vhih Attribute die zum Absturz des vhih geführt haben
@@ -49,4 +53,5 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Immax IM-Z3.0-RGBW
   - Hue lightstrip plus
   - Hue color lamp LCT007
+  - Hue Motion Sensor
   
