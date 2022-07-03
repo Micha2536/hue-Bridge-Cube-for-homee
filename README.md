@@ -42,10 +42,12 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Getestete Geräte
-  - Hue Dimmer Switch V1 
+  - Hue Dimmer Switch V1 und V2
   - Hue Iris 
   - Innr RB 285 C
+  - Innr RB 278 T
   - Innr SP 120
+  - Innr SP 220
   - Osram LIGHTIFY Outdoor Flex RGBW
   - TRADFRI Driver 30W 
   - TRADFRI Driver 10W
@@ -53,5 +55,11 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Immax IM-Z3.0-RGBW
   - Hue lightstrip plus
   - Hue color lamp LCT007
-  - Hue Motion Sensor
+  - Hue Motion Sensor und Outdoor
+  - Hue Aurelle Panel
+  - Hue color pendant up
+  - Hue color pendant down
+  - Hue go
+  
+  
   
