@@ -48,6 +48,7 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Innr RB 278 T
   - Innr SP 120
   - Innr SP 220
+  - Innr Flex Light Color,FL 120 C
   - Osram LIGHTIFY Outdoor Flex RGBW
   - TRADFRI Driver 30W 
   - TRADFRI Driver 10W
