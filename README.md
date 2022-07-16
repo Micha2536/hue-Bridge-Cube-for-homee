@@ -20,8 +20,13 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+16.07.2022 Version 1.3.6
+- Inwall Modul hinzugefügt
+- Name des vhih auf HueBridgeCube geändert, Anlernen nicht mehr mit IP nötig sondern über den Namen
+- Nicht anlernbare Geräte werden gespeichert
+- Abfrage der Deviceliste stabiler ausgeführt
 
-02.07.2022 Versin 1.2.8
+02.07.2022 Version 1.2.8
 - Fehlerbehebung beim AP und PW hinzugefügt
 - Hue Bewegungsmelder hinzugefügt mit Motion, Lux und Temp
 
