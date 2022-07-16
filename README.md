@@ -44,16 +44,6 @@ Aktuelle Version des Chips ESP32 Wroom32
 # Getestete Geräte
   - Hue Dimmer Switch V1 und V2
   - Hue Iris 
-  - Innr RB 285 C
-  - Innr RB 278 T
-  - Innr SP 120
-  - Innr SP 220
-  - Innr Flex Light Color,FL 120 C
-  - Osram LIGHTIFY Outdoor Flex RGBW
-  - TRADFRI Driver 30W 
-  - TRADFRI Driver 10W
-  - Paul Neuhaus Q-VITO 
-  - Immax IM-Z3.0-RGBW
   - Hue lightstrip plus
   - Hue color lamp LCT007
   - Hue Motion Sensor und Outdoor
@@ -61,6 +51,26 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Hue color pendant up
   - Hue color pendant down
   - Hue go
+  - Innr RB 285 C
+  - Innr RB 278 T
+  - Innr SP 120
+  - Innr SP 220
+  - Innr Flex Light Color,FL 120 C
+  - Immax IM-Z3.0-RGBW
+  - Osram LIGHTIFY Outdoor Flex RGBW
+  - Osram CLA 60 TW Bulb 
+  - Paul Neuhaus Q-VITO 
+  - Paulmann 
+  - TRADFRI Driver 30W 
+  - TRADFRI Driver 10W
+  - Tint E14 white+color 6W + 4,9 W Version
+  - Tint E27 white+color 9,5 W + 9 W Version
+  - Tint 3er Unterbauleuchte Armaro White
+  - Tint GU10 white+color 6W
+  - Tint Talpa white+color (Lightbar)
+  - Tint Smart Power Strip (4-Fach Steckdosenleiste)
+  - Tint Inwall Modul Smart Switch
+ 
   
   
   
