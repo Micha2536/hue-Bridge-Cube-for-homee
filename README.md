@@ -4,7 +4,7 @@
 
 Aktuelle Version des Chips ESP32 Wroom32 
 
-  - mit dem Esp Wlan Verbinden "hue_bridge_cube"
+  - mit dem Esp Wlan Verbinden "hue_bridge_cube" und PW eingeben das mitgeliefert wurde
   - Wlan Zugangsdaten eintippen
   - IP der Hue Bridge eintippen
   - Button der Hue Bridge betätigen und dann den Neustart Button drücken
@@ -14,6 +14,8 @@ Aktuelle Version des Chips ESP32 Wroom32
   - in homee nun Geräte hinzufügen und homee in homee auswählen
     -> mit homee verbinden drücken -> IP Adresse xxx.xxx.xxx.xxx eingeben -> User XYZ -> PW ABC -> verbinden drücken
     nun sollten alle angelegten Geräte angezeigt werden
+  - Aktuelles Update über die Seite IP/update einspielen
+  - Aktuell getestet Zahl an angelernten Geräten liegt bei 40 Aktoren ( Stand 16.7.22 )
 
 
 
