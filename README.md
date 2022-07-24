@@ -8,10 +8,10 @@ Aktuelle Version des Chips ESP32 Wroom32
   - anmelden an der WEBUI unter der IP 192.168.4.1 , Name admin und Passwort admin
   - Wlan Zugangsdaten eintippen
   - AP Passwort vergeben 
-  - WEBUI Anmeldenamen und Passwort neu vergeben
+  - WEBUI Anmeldenamen und Passwort neu vergeben, danach neu anmelden
   - IP der Hue Bridge eintippen
   - Button der Hue Bridge betätigen und dann den Neustart Button drücken
-  - Die Anmeldung an der Hue Brige wird durchgeführt
+  - Die Anmeldung an der Hue Bridge wird durchgeführt
   - Esp unter hue-bridge-cube.fritz.box aufrufen ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
     hier Sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
   - in homee nun Geräte hinzufügen und homee in homee auswählen
