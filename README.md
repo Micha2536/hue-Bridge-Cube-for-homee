@@ -26,13 +26,15 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 24.07.2022 Version 1.3.8
-- WEBUI ist nun Passwortgeschützt
-- WLAN AP kann Passwortgeschützt werden
+- WEBUI ist nun passwortgeschützt
+- WLAN AP kann passwortgeschützt werden
+- Updateseite passwortgeschützt
 - neu angelernte Geräte ( Lights ) an der Hue Bridge werden automatsich angelegt und stehen im homee zur Verfügung
 - sollte das System starten und keine Geräte angelernt werden können wird nach einem Zeitintervall neugestartet
 - Userdaten können in der WEBUI gelöscht werden
 - wenn man die Zugangsdaten nicht mehr weiß, kann mit einem 7 maligen Powercut kurz nacheinander ( abstand der Powercut ca. 1 Sekunde )
   alle Daten zurücksetzenn und der Cube (ESP) öffnet wieder sein ungeschützten WLAN AP 
+  
 
 16.07.2022 Version 1.3.6
 - Inwall Modul hinzugefügt
