@@ -70,6 +70,10 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Hue color pendant up
   - Hue color pendant down
   - Hue go
+  - Hue color Candle (e14)
+  - Hue Wihte lamp
+  - Hue Ambiente ceiling
+  - Hue smart Plug
   - Innr RB 285 C
   - Innr RB 278 T
   - Innr SP 120
@@ -79,6 +83,7 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Immax IM-Z3.0-RGBW
   - Osram LIGHTIFY Outdoor Flex RGBW
   - Osram CLA 60 TW Bulb 
+  - Osram Plug
   - Paul Neuhaus Q-VITO 
   - Paulmann 
   - TRADFRI Driver 30W 
