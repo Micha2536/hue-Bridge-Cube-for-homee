@@ -4,15 +4,18 @@
 
 Aktuelle Version des Chips ESP32 Wroom32 
 
-  - mit dem Esp Wlan Verbinden "hue_bridge_cube" und PW eingeben das mitgeliefert wurde
+  - mit dem Esp Wlan Verbinden "hue_bridge_cube" ohne PW 
+  - anmelden an der WEBUI unter der IP 192.168.4.1 , Name admin und Passwort admin
   - Wlan Zugangsdaten eintippen
+  - AP Passwort vergeben 
+  - WEBUI Anmeldenamen und Passwort neu vergeben
   - IP der Hue Bridge eintippen
   - Button der Hue Bridge betätigen und dann den Neustart Button drücken
   - Die Anmeldung an der Hue Brige wird durchgeführt
   - Esp unter hue-bridge-cube.fritz.box aufrufen ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
     hier Sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
   - in homee nun Geräte hinzufügen und homee in homee auswählen
-    -> mit homee verbinden drücken -> IP Adresse xxx.xxx.xxx.xxx eingeben -> User XYZ -> PW ABC -> verbinden drücken
+    -> mit homee verbinden drücken -> IP Adresse xxx.xxx.xxx.xxx eingeben oder HueBridgeCube -> User XYZ -> PW ABC -> verbinden drücken
     nun sollten alle angelegten Geräte angezeigt werden
   - Aktuelles Update über die Seite IP/update einspielen
   - Aktuell getestet Zahl an angelernten Geräten liegt bei 40 Aktoren ( Stand 16.7.22 )
@@ -22,6 +25,15 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+24.07.2022 Version 1.3.8
+- WEBUI ist nun Passwortgeschützt
+- WLAN AP kann Passwortgeschützt werden
+- neu angelernte Geräte ( Lights ) an der Hue Bridge werden automatsich angelegt und stehen im homee zur Verfügung
+- sollte das System starten und keine Geräte angelernt werden können wird nach einem Zeitintervall neugestartet
+- Userdaten können in der WEBUI gelöscht werden
+- wenn man die Zugangsdaten nicht mehr weiß, kann mit einem 7 maligen Powercut kurz nacheinander ( abstand der Powercut ca. 1 Sekunde )
+  alle Daten zurücksetzenn und der Cube (ESP) öffnet wieder sein ungeschützten WLAN AP 
+
 16.07.2022 Version 1.3.6
 - Inwall Modul hinzugefügt
 - Name des vhih auf HueBridgeCube geändert, Anlernen nicht mehr mit IP nötig sondern über den Namen
