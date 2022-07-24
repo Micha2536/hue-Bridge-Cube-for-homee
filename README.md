@@ -63,6 +63,7 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Innr SP 120
   - Innr SP 220
   - Innr Flex Light Color,FL 120 C
+  - Innr Smart Puck white
   - Immax IM-Z3.0-RGBW
   - Osram LIGHTIFY Outdoor Flex RGBW
   - Osram CLA 60 TW Bulb 
