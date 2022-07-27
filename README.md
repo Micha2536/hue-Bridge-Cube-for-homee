@@ -25,6 +25,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+27.07.2022 Verson 1.3.8.1Beta2
+- Gruppen und Zonen integriert , Rückkanal noch nicht integriert  
+- neue WebUi
+
 24.07.2022 Version 1.3.8
 - WEBUI ist nun passwortgeschützt
 - WLAN AP kann passwortgeschützt werden
