@@ -67,11 +67,11 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Getestete Geräte
-  - Hue Dimmer Switch V1 und V2
+  - Hue Dimmer Switch V1 und V2 ( aktuell nur Singleclick umgesetzt )
   - Hue Iris 
   - Hue lightstrip plus
   - Hue color lamp LCT007
-  - Hue Motion Sensor und Outdoor
+  - Hue Motion Sensor und Outdoor 
   - Hue Aurelle Panel
   - Hue color pendant up
   - Hue color pendant down
