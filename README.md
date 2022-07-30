@@ -10,6 +10,7 @@ Aktuelle Version des Chips ESP32 Wroom32
   - AP Passwort vergeben 
   - WEBUI Anmeldenamen und Passwort neu vergeben, danach neu anmelden
   - IP der Hue Bridge eintippen
+  - Gerätetypen (Mehrfachauswahl)  in der Liste auswählen und abspeichern
   - Button der Hue Bridge betätigen und dann den Neustart Button drücken
   - Die Anmeldung an der Hue Bridge wird durchgeführt
   - Esp unter hue-bridge-cube.fritz.box aufrufen ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
@@ -19,12 +20,18 @@ Aktuelle Version des Chips ESP32 Wroom32
     nun sollten alle angelegten Geräte angezeigt werden
   - Aktuelles Update über die Seite IP/update einspielen
   - Aktuell getestet Zahl an angelernten Geräten liegt bei 40 Aktoren ( Stand 16.7.22 )
-
+  - Sollte der Token falsch sein oder nicht richtig gespeicher werden können und daraus resultierend keine Geräte angelegt werden,
+    erfolgt nach ablauf einer vorgegebenen Zeit ein Neustart.
+  - Löschen aller Userdaten über die WebUi möglich und über einen 7 fachen Powercut innerhalb von 5-7 Sekunden, danach startet der ESP mit offenen AP.
+  
 
 
 
 
 # Update
+30.07.2022 Version 1.3.9
+- Gerätetypen die angelernt werden sollen können in der WebUi ausgewählt werden
+
 27.07.2022 Verson 1.3.8.1Beta2
 - Gruppen und Zonen integriert , Rückkanal noch nicht integriert  
 - neue WebUi
