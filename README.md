@@ -4,7 +4,7 @@
 
 Aktuelle Version des Chips ESP32 Wroom32 
 
-  - mit dem Esp Wlan Verbinden "hue_bridge_cube" ohne PW 
+  - mit dem Esp Wlan Verbinden "hue_bridge_cube" ohne PW oder homee-community-cube
   - anmelden an der WEBUI unter der IP 192.168.4.1 , Name admin und Passwort admin
   - Wlan Zugangsdaten eintippen
   - AP Passwort vergeben 
