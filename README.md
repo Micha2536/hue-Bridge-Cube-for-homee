@@ -29,6 +29,11 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+
+13.08.2022 Version 1.3.9.1.beta
+- Gruppen haben jetzt einen Rückkanal von der Hue Bridge
+- FT55 Friends of Hue werden jetzt unterstützt
+
 30.07.2022 Version 1.3.9
 - Gerätetypen die angelernt werden sollen können in der WebUi ausgewählt werden
 
@@ -108,6 +113,7 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Tint Talpa white+color (Lightbar)
   - Tint Smart Power Strip (4-Fach Steckdosenleiste)
   - Tint Inwall Modul Smart Switch
+  - Vimar Friends of Hue Smart Switch FT55 
  
   
   
