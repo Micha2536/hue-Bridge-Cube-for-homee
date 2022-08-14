@@ -106,6 +106,7 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Paulmann 
   - TRADFRI Driver 30W 
   - TRADFRI Driver 10W
+  - TRADFRI GU10 CWS 345lm
   - Tint E14 white+color 6W + 4,9 W Version
   - Tint E27 white+color 9,5 W + 9 W Version
   - Tint 3er Unterbauleuchte Armaro White
