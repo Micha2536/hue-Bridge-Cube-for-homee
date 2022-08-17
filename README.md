@@ -29,6 +29,9 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+17.08.2022 Version hue2test.1.3.9
+- Testversion für die Verwendung von zwei ESP an einem homee ( 2 vhih mit gleichen Namen funktionieren nicht )
+  daher die Testversion für den 2.ESP. 
 
 13.08.2022 Version 1.3.9.1.beta
 - Gruppen haben jetzt einen Rückkanal von der Hue Bridge
