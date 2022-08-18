@@ -29,6 +29,13 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+18.08.2022 Version 1.4.Beta
+
+- Neue Geräte hinzugefügt
+  - Hue Tap Dial Switch
+  - Hue Smart Button
+  - Hue InWall Modul
+  
 17.08.2022 Version hue2test.1.3.9
 - Testversion für die Verwendung von zwei ESP an einem homee ( 2 vhih mit gleichen Namen funktionieren nicht )
   daher die Testversion für den 2.ESP. 
@@ -95,6 +102,9 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Hue Wihte lamp
   - Hue Ambiente ceiling
   - Hue smart Plug
+  - Hue Tap Dial Switch
+  - Hue Smart Button
+  - Hue InWall Modul
   - Innr RB 285 C
   - Innr RB 278 T
   - Innr SP 120
