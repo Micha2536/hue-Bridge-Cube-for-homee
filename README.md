@@ -29,6 +29,11 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+19.08.2022 Version 1.4.Beta2
+
+- neue WebUi mit Verknüpfung zur Updateseite
+- Behandlung der Switche wurde verändert, damit die Verzögerung für das Einschalten entfällt
+
 18.08.2022 Version 1.4.Beta
 
 - Neue Geräte hinzugefügt
