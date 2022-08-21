@@ -29,6 +29,20 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+
+21.08.2022 Version 1.4 
+
+- Name des HueBridgeCube kann jetzt geändert werden
+- neue WebUi mit Verknüpfung zur Updateseite
+  - Fehlerbehebung beim speichern von Werten,
+    es wird nicht mehr auf die Hauptseite gesprungen sondern man verbleibt auf der Eingabeseite
+    
+- Behandlung der Switche wurde verändert, damit die Verzögerung für das Einschalten entfällt
+- Neue Geräte hinzugefügt
+  - Hue Tap Dial Switch
+  - Hue Smart Button
+  - Hue InWall Modul
+
 19.08.2022 Version 1.4.Beta2
 
 - neue WebUi mit Verknüpfung zur Updateseite
