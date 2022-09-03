@@ -33,12 +33,12 @@ Aktuelle Version des Chips ESP32 Wroom32
 03.09.2022 Version 1.4.3.Beta
 
 - Bug beim reconnect des Wlan entfernt wodurch das Anmelden an einer neuen Installation ( AP Mode)  immer nach 30 Sekunden neu gestartet wurde.
-- Anzeige der Laufzeit des Cube ohne Neustart 
+- Anzeige der Laufzeit des Cube ohne Neustart hinzugefügt 
 
 02.09.2022 Version 1.4.2
 
 - WiFi Reconnect hinzugefügt
-- wenn Captiv für LocalenAP hinzugefügt
+- Captiv für LocalenAP hinzugefügt
 - HueBridge kann über die WebUi in den Anlernmodus versetzt werden und für 40 Sekunden können neue Geräte
   angemeldet werden ohne die Hue App nutzen zu müssen.
 - Restart bei fehlenden HueKey wurde abgestellt, somit sollte die WebUi dann auch erreichbar bleiben
