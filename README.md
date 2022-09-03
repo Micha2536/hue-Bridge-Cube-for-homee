@@ -29,6 +29,11 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+
+03.09.2022 Version 1.4.3.Beta
+
+- Bug beim reconnect des Wlan entfernt wodurch das Anmelden an einer neuen Installation ( AP Mode)  immer nach 30 Sekunden neu gestartet wurde.
+
 02.09.2022 Version 1.4.2
 
 - WiFi Reconnect hinzugefügt
