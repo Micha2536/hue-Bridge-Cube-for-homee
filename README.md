@@ -30,6 +30,12 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 
+05.09.2022 Version 1.4.3.Beta2
+
+- Fehler beim Wlanverlust behoben
+- nach dem wiederherstellen der Verbindung zum Wlan wird jetzt der Stream zur Hue sauber neu gestartet
+- Verbindungsabruch wird gezählt und angezeigt
+
 03.09.2022 Version 1.4.3.Beta
 
 - Bug beim reconnect des Wlan entfernt wodurch das Anmelden an einer neuen Installation ( AP Mode)  immer nach 30 Sekunden neu gestartet wurde.
