@@ -31,7 +31,7 @@ Aktuelle Version des Chips ESP32 Wroom32
 # Update
 
 11.09.2022 Version 1.4.3.Beta3
-- In der Hue Konfiguration können jetzt einzelne angelegt vhih Geräte gelöscht werden.
+- In der Hue Konfiguration können jetzt angelegt vhih Geräte einzeln gelöscht werden.
   - Attributeanzahl wird aktuell nicht angepasst nach dem löschen.
 
 05.09.2022 Version 1.4.3.Beta2
