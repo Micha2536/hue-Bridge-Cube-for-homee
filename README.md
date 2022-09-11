@@ -20,15 +20,19 @@ Aktuelle Version des Chips ESP32 Wroom32
     nun sollten alle angelegten Geräte angezeigt werden
   - Aktuelles Update über die Seite IP/update einspielen
   - Aktuell getestet Zahl an angelernten Geräten liegt bei 40 Aktoren ( Stand 16.7.22 )
-  - Sollte der Token falsch sein oder nicht richtig gespeicher werden können und daraus resultierend keine Geräte angelegt werden,
-    erfolgt nach ablauf einer vorgegebenen Zeit ein Neustart.
   - Löschen aller Userdaten über die WebUi möglich und über einen 7 fachen Powercut innerhalb von 5-7 Sekunden, danach startet der ESP mit offenen AP.
+  - Wenn möglich den Hue Bridge nicht in ein Wlan Mesh einbinden, da es hier zu Problemen mit der Wlan Verbindung kommen kann.
+  - Update für den Cube sollten nach Möglichkeit nicht über ein Applebrowser oder Endgerät aufgespielt werden, da es hier zu Problemen mit den Upload führen kann.
   
 
 
 
 
 # Update
+
+11.09.2022 Version 1.4.3.Beta3
+- In der Hue Konfiguration können jetzt einzelne angelegt vhih Geräte gelöscht werden.
+  - Attributeanzahl wird aktuell nicht angepasst nach dem löschen.
 
 05.09.2022 Version 1.4.3.Beta2
 
@@ -44,7 +48,7 @@ Aktuelle Version des Chips ESP32 Wroom32
 02.09.2022 Version 1.4.2
 
 - WiFi Reconnect hinzugefügt
-- Captiv für LocalenAP hinzugefügt
+- Captiv für LocalenAP hinzugefügt ( Windows , mit Apple gibt es Probleme beim öffnen der Seite )
 - HueBridge kann über die WebUi in den Anlernmodus versetzt werden und für 40 Sekunden können neue Geräte
   angemeldet werden ohne die Hue App nutzen zu müssen.
 - Restart bei fehlenden HueKey wurde abgestellt, somit sollte die WebUi dann auch erreichbar bleiben
