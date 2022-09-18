@@ -30,6 +30,11 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 
+18.09.2022 Version 1.4.3
+- Autostart bei fehlender Verbinung zur Hue hinzugefügt.
+- kleiner Fehler beseitigt
+  
+
 11.09.2022 Version 1.4.3.Beta3
 - In der Hue Konfiguration können jetzt angelegt vhih Geräte einzeln gelöscht werden.
   - Attributeanzahl wird aktuell nicht angepasst nach dem löschen.
