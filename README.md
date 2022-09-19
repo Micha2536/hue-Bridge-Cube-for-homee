@@ -30,6 +30,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 
+19.09.2022 Version 1.4.4.Beta1
+- Fehlerbehebung bei der 1.4.3
+
+
 18.09.2022 Version 1.4.3
 - Autostart bei fehlender Verbinung zur Hue hinzugefügt.
 - kleiner Fehler beseitigt
