@@ -30,6 +30,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 # Update
 
+22.09.2022 Version 1.4.4.Beta2
+- Das Händling des Stream und Request wurden angepasst um Speicherplatz
+  nach dem Erhalt der Nachricht frei zu geben.
+
 19.09.2022 Version 1.4.4.Beta1
 - Fehlerbehebung bei der 1.4.3
 
