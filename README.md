@@ -29,6 +29,8 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+23.09.2022 Version 1.4.4.Beta3
+- Fehlerbehebung beim Verlust der Wlanverbindung ( Absturz )
 
 22.09.2022 Version 1.4.4.Beta2
 - Das Händling des Stream und Request wurden angepasst um Speicherplatz
