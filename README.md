@@ -29,6 +29,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+
+27.09.2022 Version 1.4.4.Beta4
+- Anpassungen an das Update der HueBridge Version BSB002|1.53.1953188020
+
 23.09.2022 Version 1.4.4.Beta3
 - Fehlerbehebung beim Verlust der Wlanverbindung ( Absturz )
 
