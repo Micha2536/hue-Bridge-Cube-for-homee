@@ -29,6 +29,9 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+30.09.2022 Version 1.4.4.Beta5
+- Dimmwert angepasst
+- Speicherbedarf etwas verringert 
 
 27.09.2022 Version 1.4.4.Beta4
 - Anpassungen an das Update der HueBridge Version BSB002|1.53.1953188020
