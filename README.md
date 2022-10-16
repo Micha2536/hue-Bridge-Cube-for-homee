@@ -1,5 +1,8 @@
 # hue-Bridge-Cube-for-homee
 
+## Telegram Kanal 
+ - https://t.me/homee_huecube
+
 ## Installation
 
 Aktuelle Version des Chips ESP32 Wroom32 
