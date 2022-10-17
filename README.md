@@ -32,6 +32,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+17.10.2022 Version 1.4.5.Beta1
+- Debug in den Werkseinstellungen zum Kontrollieren der Nachrichten von der Bridge.
+- SSE Stream für den Browser eingebaut ( Apple mag das leider nicht so ) 
+
 17.10.2022 Version 1.4.4
 - Anpassungen aus der Beta enthalten
 - Speicherfehler, der zum Absturz beim schalten vieler Lampen geführt hat, behoben.
