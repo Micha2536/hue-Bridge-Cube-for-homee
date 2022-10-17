@@ -32,6 +32,11 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+17.10.2022 Version 1.4.4
+- Anpassungen aus der Beta enthalten
+- Speicherfehler, der zum Absturz beim schalten vieler Lampen geführt hat, behoben.
+
+
 30.09.2022 Version 1.4.4.Beta5
 - Dimmwert angepasst
 - Speicherbedarf etwas verringert 
