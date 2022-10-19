@@ -34,7 +34,7 @@ Aktuelle Version des Chips ESP32 Wroom32
 # Update
 19.10.2022 Version 1.4.5 Beta2
 - Die hue Bridge wird jetzt in einem Intervall von 30 Sekunden nach dem Zustand
-  der Geräte gefragt ( on/off , dimmen , zigbee Connection ).
+  der Geräte gefragt (on/off, dimmen, zigbee Connection).
   Damit sollen Unstimmigkeiten der Aktoren gegenüber homee behoben werden.
   Geräte die in der Hue Bridge mit einem Sensor verknüpft sind,
   werden dann nach spätestens 30 Sekunden in homee richtig dargestellt.
