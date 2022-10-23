@@ -32,6 +32,9 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+23.10.2022 Version 1.4.5 Beta3
+- In den Einstellungen kann jetzt ausgewählt werden ob ein Automatischer Abruf der Daten durchgeführt wird.
+  
 19.10.2022 Version 1.4.5 Beta2
 - Die hue Bridge wird jetzt in einem Intervall von 30 Sekunden nach dem Zustand
   der Geräte gefragt (on/off, dimmen, zigbee Connection).
