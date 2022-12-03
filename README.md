@@ -32,6 +32,10 @@ Aktuelle Version des Chips ESP32 Wroom32
 
 
 # Update
+3.12.2022 Version 1.4.5
+- kleine Anpassungen bei dem Speicherabruf 
+- Fehlerbehebung bei der Intervallabfrage nach einem Neustart
+
 16.11.2022 Version 1.4.5 Beta4
 - in den Hue Einstellungen kann jetzt die Anzahl an Geräten angegegeben werden die beim Start vorhanden sein müssen 
   bevor der vhih Service gestartet wird. Sollte die Geräteanzahl nicht passen wird der Cube neu gestartet bis die entsprechende 
