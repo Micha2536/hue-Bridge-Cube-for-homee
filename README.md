@@ -5,28 +5,28 @@
 
 ## Installation
 
-Aktuelle Version des Chips ESP32 Wroom32 
+Aktuelle Version des Chips ESP32 Wroom32 ( getestet auch mit M5Stack Core2 )
 
-  - mit dem Esp Wlan Verbinden "hue_bridge_cube" ohne PW oder homee-community-cube
+  - mit dem Esp Wlan Verbinden "hue_bridge_cube" 
   - anmelden an der WEBUI unter der IP 192.168.4.1 , Name admin und Passwort admin
-  - Wlan Zugangsdaten eintippen
-  - AP Passwort vergeben 
-  - WEBUI Anmeldenamen und Passwort neu vergeben, danach neu anmelden
+  - Wlan Konfiguration öffne und Wlan auswählen oder SSID eintippen und Passwort eingeben 
+  - Cube neu starten und mit der IP oder hue-bridge-cube.fritz.box verbinden 
+    ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
   - IP der Hue Bridge eintippen
   - Gerätetypen (Mehrfachauswahl)  in der Liste auswählen und abspeichern
-  - Button der Hue Bridge betätigen und dann den Neustart Button drücken
-  - Die Anmeldung an der Hue Bridge wird durchgeführt
-  - Esp unter hue-bridge-cube.fritz.box aufrufen ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
-    hier Sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
+  - Button der Hue Bridge betätigen und dann den Neustart Button auf der WEBUI drücken
+  - Esp WebUi öffnen, hier sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
+  - Wenn die Anzahl der Geräte stimmt dann diese Zahl in der HUE Konfiguration eingeben ( soll das vom Host gelöscht verhindern ) 
   - in homee nun Geräte hinzufügen und homee in homee auswählen
     -> mit homee verbinden drücken -> IP Adresse xxx.xxx.xxx.xxx eingeben oder HueBridgeCube -> User XYZ -> PW ABC -> verbinden drücken
     nun sollten alle angelegten Geräte angezeigt werden
   - Aktuelles Update über die Seite IP/update einspielen
-  - Aktuell getestet Zahl an angelernten Geräten liegt bei 40 Aktoren ( Stand 16.7.22 )
+  - Aktuell getestet Zahl an angelernten Geräten liegt bei 47 Aktoren ( 167 Attribute ) ( Stand 4.12.2022 )
   - Löschen aller Userdaten über die WebUi möglich und über einen 7 fachen Powercut innerhalb von 5-7 Sekunden, danach startet der ESP mit offenen AP.
   - Wenn möglich den Hue Bridge nicht in ein Wlan Mesh einbinden, da es hier zu Problemen mit der Wlan Verbindung kommen kann.
   - Update für den Cube sollten nach Möglichkeit nicht über ein Applebrowser oder Endgerät aufgespielt werden, da es hier zu Problemen mit den Upload führen kann.
-  
+  - [optional] AP Passwort vergeben 
+  - [optional] WEBUI Http Name  und Http Passwort neu vergeben, danach neu anmelden
 
 
 
