@@ -9,10 +9,10 @@ Aktuelle Version des Chips ESP32 Wroom32 ( getestet auch mit M5Stack Core2 )
 
   - mit dem Esp Wlan Verbinden "hue_bridge_cube" 
   - anmelden an der WEBUI unter der IP 192.168.4.1 , Name admin und Passwort admin
-  - Wlan Konfiguration öffne und Wlan auswählen oder SSID eintippen und Passwort eingeben 
+  - Wlan Konfiguration öffnen und Wlan auswählen oder SSID eintippen und Passwort eingeben und speichern 
   - Cube neu starten und mit der IP oder hue-bridge-cube.fritz.box verbinden 
     ( wenn er an der Fritzbox angemeldet ist, ansonsten die Ip im Router raussuchen )
-  - IP der Hue Bridge eintippen
+  - IP der Hue Bridge eintippen in der HUE Konfiguration
   - Gerätetypen (Mehrfachauswahl)  in der Liste auswählen und abspeichern
   - Button der Hue Bridge betätigen und dann den Neustart Button auf der WEBUI drücken
   - Esp WebUi öffnen, hier sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
