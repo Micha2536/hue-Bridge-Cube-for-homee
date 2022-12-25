@@ -32,6 +32,10 @@ Aktuelle Version des Chips ESP32 Wroom32 ( getestet auch mit M5Stack Core2 )
 
 
 # Update
+25.12.2022 Version 1.4.6Beta1
+- Anpassung bei der Speicherverwendung 
+- Fehlerbehebung bei der Neueinrichtung die zum Neustart geführt hat
+
 3.12.2022 Version 1.4.5
 - kleine Anpassungen bei dem Speicherabruf 
 - Fehlerbehebung bei der Intervallabfrage nach einem Neustart
