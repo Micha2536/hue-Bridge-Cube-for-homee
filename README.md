@@ -17,6 +17,7 @@ Aktuelle Version des Chips ESP32 Wroom32 ( getestet auch mit M5Stack Core2 )
   - Button der Hue Bridge betätigen und dann den Neustart Button auf der WEBUI drücken
   - Esp WebUi öffnen, hier sollte jetzt stehen das der Stream zur HUE besteht und wieviele Geräte angelegt wurden
   - Wenn die Anzahl der Geräte stimmt dann diese Zahl in der HUE Konfiguration eingeben ( soll das vom Host gelöscht verhindern ) 
+  - Automatisches starten des vhih Service aktivieren
   - in homee nun Geräte hinzufügen und homee in homee auswählen
     -> mit homee verbinden drücken -> IP Adresse xxx.xxx.xxx.xxx eingeben oder HueBridgeCube -> User XYZ -> PW ABC -> verbinden drücken
     nun sollten alle angelegten Geräte angezeigt werden
@@ -32,6 +33,10 @@ Aktuelle Version des Chips ESP32 Wroom32 ( getestet auch mit M5Stack Core2 )
 
 
 # Update
+16.01.2023 Version 1.4.6Beta2
+- Fehlerbehebung wodurch es zum "vom Host gelöscht" kommen kann.
+- der vhih Service kann jetzt in den Einstellungen automatisch oder manuell gestartet werden. (standard manuell)
+
 25.12.2022 Version 1.4.6Beta1
 - Anpassung bei der Speicherverwendung 
 - Fehlerbehebung bei der Neueinrichtung die zum Neustart geführt hat
