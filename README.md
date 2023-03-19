@@ -33,6 +33,9 @@ Aktuelle Version des Chips ESP32 Wroom32 ( getestet auch mit M5Stack Core2 )
 
 
 # Update
+17.03.2023 Version 1.4.7.Beta
+- Blacklist hinzugefügt, gelöschte Geräte werden bei einem Neustart nicht mehr geladen.
+
 16.01.2023 Version 1.4.6Beta2
 - Fehlerbehebung wodurch es zum "vom Host gelöscht" kommen kann.
 - der vhih Service kann jetzt in den Einstellungen automatisch oder manuell gestartet werden. (standard manuell)
